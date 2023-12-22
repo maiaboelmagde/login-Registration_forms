@@ -10,6 +10,6 @@
   "name": "Name",
   "name_text": "Enter your name here",
   "password_confirmation": "Password Confirmation",
-  "pasword_confirmation_text": "Enter your password again , please",
+  "password_confirmation_text": "Enter your password again , please",
   "back_to_login": "Go back to login page"
 }
