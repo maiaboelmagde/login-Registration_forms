@@ -1,0 +1,15 @@
+{
+  "sign_in" : "تسجيل الدخول",
+  "email" : "البريد الإلكتروني",
+  "email_text":"أدخل بريدك الإلكتروني هنا",
+  "password" : "كلمة المرور",
+  "password_text": "قم بادخال كلمة المرور",
+  "log_in" : "تسجيل الدخول",
+  "create_account" : "إنشاء حساب",
+  "sign_up" : "إنشاء حساب",
+  "name": "الإسم",
+  "name_text": "أدخل اسمك هنا",
+  "password_confirmation": "تأكيد كلمة السر",
+  "password_confirmation_text": "أدخل كلمة السر مجددا",
+  "back_to_login": "تسجيل الدخول"
+}

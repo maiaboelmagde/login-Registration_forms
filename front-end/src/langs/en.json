@@ -1,0 +1,15 @@
+{
+  "sign_in" : "Sign In",
+  "email" : "Email",
+  "email_text": "Enter your email here",
+  "password" : "Password",
+  "password_text": "Enter password here",
+  "log_in" : "Log in",
+  "create_account" : "Create Account",
+  "sign_up" : "Sign Up",
+  "name": "Name",
+  "name_text": "Enter your name here",
+  "password_confirmation": "Password Confirmation",
+  "pasword_confirmation_text": "Enter your password again , please",
+  "back_to_login": "Go back to login page"
+}
